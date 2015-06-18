@@ -1,7 +1,7 @@
-## Non naive Python, torn from all over the web including: (https://www.youtube.com/watch?v=u2KZJzoz-qI) 
+## Non naive Python, the tldr synopsis of: (https://www.youtube.com/watch?v=u2KZJzoz-qI) 
 
-list_one = ['a','b','c','d']
-list_four = [1,3,6,10]
+list_one = ['a', 'b', 'c', 'd']
+list_four = [1, 3, 6, 10]
 
 #union
 print "1:"
